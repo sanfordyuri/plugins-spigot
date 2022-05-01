@@ -1,0 +1,19 @@
+# Sessão de Configuração
+
+# Conexão com o Banco de Dados
+Mysql:
+  server-andress: 'localhost'
+  user: 'root'
+  password: '123'
+  database: 'db'
+  port: '3306'
+
+Update-Time: 30 # Tempo de atualização dos dados no banco
+
+# Configurações de saldo dos jogadores
+Saldo-inicial: 1000.0
+
+# Configurações de Mensagens
+
+
+

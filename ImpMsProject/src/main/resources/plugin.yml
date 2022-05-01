@@ -1,0 +1,11 @@
+name: Impms
+version: '${project.version}'
+main: impalinha.impmb.Impmb
+api-version: 1.8.8
+prefix: ImpMS
+authors: [ Impalinha ]
+description: Um plugin para givar MobSpawners
+commands:
+  mb:
+    permission: admin.*
+    description: 'Comandos de Spawners'

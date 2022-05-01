@@ -1,0 +1,16 @@
+name: ImpCoins
+author: HadyMan
+version: 1.0.0
+description: 'A plugin created to service how an Economic system to server.'
+main: br.com.impalinha.ImpCoins.Main
+commands:
+  Money:
+    aliases:
+      - Coin
+      - Coins
+      - Moneys
+    description: 'See your money, and all money commands.'
+prefix: 'ImpCoins'
+api-version: 1.8.8
+depend:
+  - Vault
